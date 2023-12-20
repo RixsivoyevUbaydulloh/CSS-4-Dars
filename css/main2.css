@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.text-block{
+    background-color: lightpink;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+.text-block-item-1{
+    width: 350px;
+    height: 300px;
+    border: 1px solid lightgray;
+    border-top: 5px solid palevioletred;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 25px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: white;
+    margin: 30px 20px;
+    line-height: 35px;
+}
